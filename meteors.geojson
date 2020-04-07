@@ -1,191 +1,3579 @@
 {
-  "type": "FeatureCollection",
-     "features": [{
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [22.3038945, 70.80215989999999]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Rajkot",
-                    "confirmed": 10
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [21.1702401, 72.83106070000001]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Surat",
-                    "confirmed": 19
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [23.022505, 72.5713621]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Ahmadabad",
-                    "confirmed": 77
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [22.3071588, 73.1812187]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Vadodara",
-                    "confirmed": 12
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [23.2156354, 72.63694149999999]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Gandhinagar",
-                    "confirmed": 13
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [23.7337326, 69.8597406]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Kachchh",
-                    "confirmed": 2
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [23.5879607, 72.36932519999999]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Mahesana",
-                    "confirmed": 2
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [21.7644725, 72.15193040000001]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Bhavnagar",
-                    "confirmed": 14
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [21.6416979, 69.62930589999999]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Porbandar",
-                    "confirmed": 3
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [21.0119385, 70.7168469]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Gir Somnath",
-                    "confirmed": 2
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [22.8011177, 73.55941279999999]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Panch Mahals",
-                    "confirmed": 1
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [23.8500156, 72.1210274]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Patan",
-                    "confirmed": 5
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [22.3084941, 74.0119993]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Chota Udaipur",
-                    "confirmed": 1
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [22.4707019, 70.05773]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Jamnagar",
-                    "confirmed": 1
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [22.8251874, 70.84908089999999]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Morbi",
-                    "confirmed": 1
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [22.5645175, 72.928871]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Anand",
-                    "confirmed": 1
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [23.8476704, 72.99329689999999]
-                },
-                "properties": {
-                    "state": "Gujarat",
-                    "district": "Sabar Kantha",
-                    "confirmed": 1
-                }
-            }]
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.5276416, 76.2144349]
+            },
+            "properties": {
+                "state": "Kerala",
+                "district": "Thrissur",
+                "confirmed": 12
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.498066699999999, 76.3388484]
+            },
+            "properties": {
+                "state": "Kerala",
+                "district": "Alappuzha",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.4995966, 74.9869276]
+            },
+            "properties": {
+                "state": "Kerala",
+                "district": "Kasaragod",
+                "confirmed": 152
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.2647582, 76.78704139999999]
+            },
+            "properties": {
+                "state": "Kerala",
+                "district": "Pathanamthitta",
+                "confirmed": 15
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.8744775, 75.37036619999999]
+            },
+            "properties": {
+                "state": "Kerala",
+                "district": "Kannur",
+                "confirmed": 51
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.9816358, 76.2998842]
+            },
+            "properties": {
+                "state": "Kerala",
+                "district": "Ernakulam",
+                "confirmed": 24
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.591566799999999, 76.5221531]
+            },
+            "properties": {
+                "state": "Kerala",
+                "district": "Kottayam",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.5241391, 76.9366376]
+            },
+            "properties": {
+                "state": "Kerala",
+                "district": "Thiruvananthapuram",
+                "confirmed": 13
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.8583987, 76.9527836]
+            },
+            "properties": {
+                "state": "Kerala",
+                "district": "Idukki",
+                "confirmed": 10
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.0509762, 76.0710967]
+            },
+            "properties": {
+                "state": "Kerala",
+                "district": "Malappuram",
+                "confirmed": 15
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.2587531, 75.78041]
+            },
+            "properties": {
+                "state": "Kerala",
+                "district": "Kozhikode",
+                "confirmed": 12
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.7867303, 76.6547932]
+            },
+            "properties": {
+                "state": "Kerala",
+                "district": "Palakkad",
+                "confirmed": 7
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.6853575, 76.1319953]
+            },
+            "properties": {
+                "state": "Kerala",
+                "district": "Wayanad",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.8932118, 76.6141396]
+            },
+            "properties": {
+                "state": "Kerala",
+                "district": "Kollam",
+                "confirmed": 7
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.6279559, 77.29562729999999]
+            },
+            "properties": {
+                "state": "Delhi",
+                "district": "East Delhi",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.5928929, 77.03461639999999]
+            },
+            "properties": {
+                "state": "Delhi",
+                "district": "South West Delhi",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.6663433, 77.067959]
+            },
+            "properties": {
+                "state": "Delhi",
+                "district": "West Delhi",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.7886037, 77.1411602]
+            },
+            "properties": {
+                "state": "Delhi",
+                "district": "North Delhi",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.6139391, 77.2090212]
+            },
+            "properties": {
+                "state": "Delhi",
+                "district": "New Delhi",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.4816551, 77.18728569999999]
+            },
+            "properties": {
+                "state": "Delhi",
+                "district": "South Delhi",
+                "confirmed": 26
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.7183693, 77.2580268]
+            },
+            "properties": {
+                "state": "Delhi",
+                "district": "North East Delhi",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.7186211, 77.0685134]
+            },
+            "properties": {
+                "state": "Delhi",
+                "district": "North West Delhi",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.5109223, 77.3370384]
+            },
+            "properties": {
+                "state": "Delhi",
+                "district": "Unknown",
+                "confirmed": 481
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [17.385044, 78.486671]
+            },
+            "properties": {
+                "state": "Telangana",
+                "district": "Hyderabad",
+                "confirmed": 87
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18.4385553, 79.1288412]
+            },
+            "properties": {
+                "state": "Telangana",
+                "district": "Karimnagar",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [17.5481226, 80.6157362]
+            },
+            "properties": {
+                "state": "Telangana",
+                "district": "Bhadradri Kothagudem",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [17.3891379, 77.8367282]
+            },
+            "properties": {
+                "state": "Telangana",
+                "district": "Ranga Reddy",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [17.4139017, 78.5855965]
+            },
+            "properties": {
+                "state": "Telangana",
+                "district": "Medchal Malkajgiri",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18.1124372, 79.01929969999999]
+            },
+            "properties": {
+                "state": "Telangana",
+                "district": "Unknown",
+                "confirmed": 258
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [17.9744395, 79.9192702]
+            },
+            "properties": {
+                "state": "Telangana",
+                "district": "Warangal Urban",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [17.3364555, 77.9048268]
+            },
+            "properties": {
+                "state": "Telangana",
+                "district": "Vikarabad",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.6640624, 78.5320107]
+            },
+            "properties": {
+                "state": "Telangana",
+                "district": "Adilabad",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.0964117, 78.342975]
+            },
+            "properties": {
+                "state": "Telangana",
+                "district": "Nirmal",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18.6725047, 78.09408669999999]
+            },
+            "properties": {
+                "state": "Telangana",
+                "district": "Nizamabad",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18.6151461, 79.3826826]
+            },
+            "properties": {
+                "state": "Telangana",
+                "district": "Peddapalli",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [17.6140077, 78.08156269999999]
+            },
+            "properties": {
+                "state": "Telangana",
+                "district": "Sangareddy",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.151066, 75.83809699999999]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Italians",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.9124336, 75.7872709]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Jaipur",
+                "confirmed": 103
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.1317038, 75.4022233]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Jhunjhunu",
+                "confirmed": 23
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.3407388, 74.63131829999999]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Bhilwara",
+                "confirmed": 27
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.2389469, 73.02430939999999]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Jodhpur",
+                "confirmed": 30
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.7780623, 73.331147]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Pali",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.6093912, 75.1397935]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Sikar",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [24.0316509, 74.77873869999999]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Pratapgarh",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.841668, 73.7146623]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Dungarpur",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.2925364, 74.9707262]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Churu",
+                "confirmed": 11
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.4498954, 74.6399163]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Ajmer",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.0238036, 74.21793260000001]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Evacuees",
+                "confirmed": 36
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.5529907, 76.6345735]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Alwar",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.1659063, 75.7962852]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Tonk",
+                "confirmed": 20
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.6965521, 77.8907576]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Dhaulpur",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [24.585445, 73.712479]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Udaipur",
+                "confirmed": 4
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.2151863, 77.5029996]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Bharatpur",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.0229348, 73.3119159]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Bikaner",
+                "confirmed": 11
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.8996953, 76.332411]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Dausa",
+                "confirmed": 6
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.5461394, 74.4349761]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Banswara",
+                "confirmed": 6
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.488323, 77.01614359999999]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Karauli",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.1983368, 73.7493272]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Nagaur",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.9157487, 70.9083443]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Jaisalmer",
+                "confirmed": 8
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.2138156, 75.8647527]
+            },
+            "properties": {
+                "state": "Rajasthan",
+                "district": "Kota",
+                "confirmed": 10
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.495335, 77.08845]
+            },
+            "properties": {
+                "state": "Haryana",
+                "district": "Italians",
+                "confirmed": 14
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.4594965, 77.0266383]
+            },
+            "properties": {
+                "state": "Haryana",
+                "district": "Gurugram",
+                "confirmed": 18
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.4089123, 77.3177894]
+            },
+            "properties": {
+                "state": "Haryana",
+                "district": "Faridabad",
+                "confirmed": 21
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.3909464, 76.9635023]
+            },
+            "properties": {
+                "state": "Haryana",
+                "district": "Panipat",
+                "confirmed": 4
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.6942091, 76.860565]
+            },
+            "properties": {
+                "state": "Haryana",
+                "district": "Panchkula",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.99308229999999, 77.0150735]
+            },
+            "properties": {
+                "state": "Haryana",
+                "district": "Sonipat",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.1472852, 77.3259878]
+            },
+            "properties": {
+                "state": "Haryana",
+                "district": "Palwal",
+                "confirmed": 26
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.3752011, 76.782122]
+            },
+            "properties": {
+                "state": "Haryana",
+                "district": "Ambala",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.5320731, 75.03177339999999]
+            },
+            "properties": {
+                "state": "Haryana",
+                "district": "Sirsa",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.1491875, 75.7216527]
+            },
+            "properties": {
+                "state": "Haryana",
+                "district": "Hisar",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.8955152, 76.606611]
+            },
+            "properties": {
+                "state": "Haryana",
+                "district": "Rohtak",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.1023894, 76.99310740000001]
+            },
+            "properties": {
+                "state": "Haryana",
+                "district": "Nuh",
+                "confirmed": 30
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.6856929, 76.9904825]
+            },
+            "properties": {
+                "state": "Haryana",
+                "district": "Karnal",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.7974684, 76.1322058]
+            },
+            "properties": {
+                "state": "Haryana",
+                "district": "Bhiwani",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.8042758, 76.4039016]
+            },
+            "properties": {
+                "state": "Haryana",
+                "district": "Kaithal",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.5920617, 76.2652909]
+            },
+            "properties": {
+                "state": "Haryana",
+                "district": "Charki Dadri",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.1766701, 78.00807449999999]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Agra",
+                "confirmed": 49
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.6691565, 77.45375779999999]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Ghaziabad",
+                "confirmed": 23
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.8466937, 80.94616599999999]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Lucknow",
+                "confirmed": 21
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.358983, 77.55076199999999]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Gautam Buddha Nagar",
+                "confirmed": 61
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.9462395, 80.7787163]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Kheri",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.8386481, 78.7733286]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Moradabad",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.3176452, 82.9739144]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Varanasi",
+                "confirmed": 7
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.4148245, 80.23213129999999]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Kanpur Nagar",
+                "confirmed": 16
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.62494, 79.8075272]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Pilibhit",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.7464145, 82.68370329999999]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Jaunpur",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.9427827, 77.22760699999999]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Baghpat",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.4501986, 77.3172046]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Shamli",
+                "confirmed": 14
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.9844618, 77.7064137]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Meerut",
+                "confirmed": 25
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.3670355, 79.4304381]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Bareilly",
+                "confirmed": 6
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.406963, 77.8498292]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Bulandshahr",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.8139844, 82.7629893]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Basti",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.3965071, 80.1250479]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Hardoi",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.8753399, 79.9147268]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Shahjahanpur",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.1591961, 78.3957331]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Firozabad",
+                "confirmed": 4
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.0739138, 83.18594949999999]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Azamgarh",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.9680035, 77.55520659999999]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Saharanpur",
+                "confirmed": 13
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.8973038, 81.9452981]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Pratapgarh",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.73057979999999, 77.7758825]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Hapur",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.5877901, 83.5783078]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Ghazipur",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.4762689, 80.3395498]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Banda",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.1446035, 83.5621737]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Mahrajganj",
+                "confirmed": 6
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.5980718, 78.0492265]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Hathras",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.5980718, 78.0492265]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Hatras",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.1336987, 82.5644344]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Mirzapur",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.2144806, 81.25281389999999]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Rae Bareli",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.9268042, 81.1833809]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Bara Banki",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.4605377, 79.5112528]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Auraiya",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.361054, 81.40317069999999]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Kaushambi",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.3731673, 78.1350904]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Bijnor",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.4358011, 81.846311]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Prayagraj",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.5680156, 80.6789519]
+            },
+            "properties": {
+                "state": "Uttar Pradesh",
+                "district": "Sitapur",
+                "confirmed": 8
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [34.1525864, 77.57705349999999]
+            },
+            "properties": {
+                "state": "Ladakh",
+                "district": "Leh",
+                "confirmed": 11
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [34.5538522, 76.1348944]
+            },
+            "properties": {
+                "state": "Ladakh",
+                "district": "Kargil",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.818456, 79.6946586]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Kancheepuram",
+                "confirmed": 7
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.0826802, 80.2707184]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Chennai",
+                "confirmed": 113
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.3410364, 77.7171642]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Erode",
+                "confirmed": 27
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.0168445, 76.9558321]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Coimbatore",
+                "confirmed": 63
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.713912600000002, 77.7566523]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Tirunelveli",
+                "confirmed": 38
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.1085242, 77.3410656]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Tiruppur",
+                "confirmed": 7
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.9252007, 78.1197754]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Madurai",
+                "confirmed": 19
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.664325, 78.1460142]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Salem",
+                "confirmed": 12
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.9165167, 79.13249859999999]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Vellore",
+                "confirmed": 6
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.7904833, 78.7046725]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Tiruchirappalli",
+                "confirmed": 31
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.6819372, 79.98884129999999]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Chengalpattu",
+                "confirmed": 20
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.7869994, 79.13782739999999]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Thanjavur",
+                "confirmed": 8
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.5680116, 77.96244349999999]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Virudhunagar",
+                "confirmed": 11
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.9600778, 78.07660360000001]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Karur",
+                "confirmed": 22
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.2252841, 79.07469569999999]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Tiruvannamalai",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.9401378, 79.4861449]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Viluppuram",
+                "confirmed": 20
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.2188958, 78.1673575]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Namakkal",
+                "confirmed": 28
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.0883064, 77.5384507]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Kanniyakumari",
+                "confirmed": 6
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.764166099999999, 78.1348361]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Thoothukkudi",
+                "confirmed": 11
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.0103658, 77.4768115]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Theni",
+                "confirmed": 24
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.3623794, 77.9694579]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Dindigul",
+                "confirmed": 45
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.8432999, 78.48087749999999]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Sivaganga",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.588265, 79.57298689999999]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Tirupathur",
+                "confirmed": 11
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.7661312, 79.6343691]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Thiruvarur",
+                "confirmed": 12
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.9487403, 79.318978]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Ranipet",
+                "confirmed": 24
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.3639356, 78.8394819]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Ramanathapuram",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.1230558, 79.9119526]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Thiruvallur",
+                "confirmed": 12
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [10.7672313, 79.8448512]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Nagapattinam",
+                "confirmed": 11
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.7480419, 79.7713687]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Cuddalore",
+                "confirmed": 13
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.7383735, 78.9638899]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Kallakurichi",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.2342104, 78.8806852]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Perambalur",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.4916043, 76.7336521]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "The Nilgiris",
+                "confirmed": 4
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.1400585, 79.0786281]
+            },
+            "properties": {
+                "state": "Tamil Nadu",
+                "district": "Ariyalur",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32.7266016, 74.8570259]
+            },
+            "properties": {
+                "state": "Jammu and Kashmir",
+                "district": "Jammu",
+                "confirmed": 10
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [34.0836708, 74.7972825]
+            },
+            "properties": {
+                "state": "Jammu and Kashmir",
+                "district": "Srinagar",
+                "confirmed": 17
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [34.5052269, 74.6868815]
+            },
+            "properties": {
+                "state": "Jammu and Kashmir",
+                "district": "Bandipore",
+                "confirmed": 9
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [33.778175, 76.57617139999999]
+            },
+            "properties": {
+                "state": "Jammu and Kashmir",
+                "district": "Unknown",
+                "confirmed": 62
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [33.3716143, 74.315191]
+            },
+            "properties": {
+                "state": "Jammu and Kashmir",
+                "district": "Rajouri",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [33.9348549, 74.64004320000001]
+            },
+            "properties": {
+                "state": "Jammu and Kashmir",
+                "district": "Badgam",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [34.1595145, 74.35874729999999]
+            },
+            "properties": {
+                "state": "Jammu and Kashmir",
+                "district": "Baramula",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [33.7593643, 74.8039205]
+            },
+            "properties": {
+                "state": "Jammu and Kashmir",
+                "district": "Shupiyan",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32.9159847, 75.1416173]
+            },
+            "properties": {
+                "state": "Jammu and Kashmir",
+                "district": "Udhampur",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.9715987, 77.5945627]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Bengaluru",
+                "confirmed": 58
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [17.329731, 76.8342957]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Kalaburagi",
+                "confirmed": 7
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.3374942, 75.8069082]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Kodagu",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.4354985, 77.7315344]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Chikkaballapura",
+                "confirmed": 10
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.2958104, 76.6393805]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Mysuru",
+                "confirmed": 35
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.4589236, 75.007808]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Dharwad",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.7937065, 74.6868815]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Uttara Kannada",
+                "confirmed": 9
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.8437814, 75.2479061]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Dakshina Kannada",
+                "confirmed": 10
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.3408807, 74.7421427]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Udupi",
+                "confirmed": 4
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.2250932, 76.3980464]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Chitradurga",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.3378762, 77.117325]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Tumakuru",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.4644085, 75.921758]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Davanagere",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.1393932, 76.9214428]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Ballari",
+                "confirmed": 6
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [17.9103939, 77.51990789999999]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Bidar",
+                "confirmed": 10
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16.1691096, 75.6615029]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Bagalkote",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.8496953, 74.4976741]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Belagavi",
+                "confirmed": 7
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.2846993, 77.6077865]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Bengaluru Rural",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.4315406, 75.63551489999999]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Gadag",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.5218157, 76.89514880000002]
+            },
+            "properties": {
+                "state": "Karnataka",
+                "district": "Mandya",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18.5204303, 73.8567437]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Pune",
+                "confirmed": 145
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.0759837, 72.8776559]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Mumbai",
+                "confirmed": 536
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.1458004, 79.0881546]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Nagpur",
+                "confirmed": 19
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.2183307, 72.9780897]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Thane",
+                "confirmed": 86
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.0948287, 74.74797889999999]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Ahmadnagar",
+                "confirmed": 26
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.3899385, 78.1306846]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Yavatmal",
+                "confirmed": 4
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.8761653, 75.3433139]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Aurangabad",
+                "confirmed": 10
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16.990215, 73.31202329999999]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Ratnagiri",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16.8523973, 74.5814773]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Sangli",
+                "confirmed": 26
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [17.6804639, 74.018261]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Satara",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16.3492193, 73.55941279999999]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Sindhudurg",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.4549477, 80.19607119999999]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Gondiya",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16.7049873, 74.24325270000001]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Kolhapur",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.0109997, 72.6638991]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Gujarat*",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.0076578, 75.5626039]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Jalgaon",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.5292147, 76.1841701]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Buldana",
+                "confirmed": 7
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.9974533, 73.78980229999999]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Nashik",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18.185332, 76.0419642]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Osmanabad",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.1119123, 77.1312586]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Washim",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.7173703, 77.1493722]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Hingoli",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.9319821, 77.7523039]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Amravati",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18.4087934, 76.5603828]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Latur",
+                "confirmed": 8
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.8346659, 75.88163449999999]
+            },
+            "properties": {
+                "state": "Maharashtra",
+                "district": "Jalna",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [31.6339793, 74.8722642]
+            },
+            "properties": {
+                "state": "Punjab",
+                "district": "Amritsar",
+                "confirmed": 9
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [31.1255583, 76.118642]
+            },
+            "properties": {
+                "state": "Punjab",
+                "district": "Shahid Bhagat Singh Nagar",
+                "confirmed": 19
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.7046486, 76.71787259999999]
+            },
+            "properties": {
+                "state": "Punjab",
+                "district": "S.A.S. Nagar",
+                "confirmed": 19
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [31.5143178, 75.911483]
+            },
+            "properties": {
+                "state": "Punjab",
+                "district": "Hoshiarpur",
+                "confirmed": 7
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [31.3260152, 75.57618289999999]
+            },
+            "properties": {
+                "state": "Punjab",
+                "district": "Jalandhar",
+                "confirmed": 6
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.900965, 75.8572758]
+            },
+            "properties": {
+                "state": "Punjab",
+                "district": "Ludhiana",
+                "confirmed": 7
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.3397809, 76.3868797]
+            },
+            "properties": {
+                "state": "Punjab",
+                "district": "Patiala",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.9661003, 76.5230961]
+            },
+            "properties": {
+                "state": "Punjab",
+                "district": "Rupnagar",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.9995069, 75.3936808]
+            },
+            "properties": {
+                "state": "Punjab",
+                "district": "Mansa",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32.2733352, 75.6522066]
+            },
+            "properties": {
+                "state": "Punjab",
+                "district": "Pathankot",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.6769462, 74.7583351]
+            },
+            "properties": {
+                "state": "Punjab",
+                "district": "Faridkot",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.3819446, 75.5467979]
+            },
+            "properties": {
+                "state": "Punjab",
+                "district": "Barnala",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.6435345, 76.39703]
+            },
+            "properties": {
+                "state": "Punjab",
+                "district": "Fatehgarh Sahib",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [31.3722571, 75.4017654]
+            },
+            "properties": {
+                "state": "Punjab",
+                "district": "Kapurthala",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.8230114, 75.17344709999999]
+            },
+            "properties": {
+                "state": "Punjab",
+                "district": "Moga",
+                "confirmed": 4
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [31.1471305, 75.34121789999999]
+            },
+            "properties": {
+                "state": "Punjab",
+                "district": "Unknown",
+                "confirmed": 6
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.2580848, 79.9192702]
+            },
+            "properties": {
+                "state": "Andhra Pradesh",
+                "district": "S.P.S. Nellore",
+                "confirmed": 42
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.348463, 79.560344]
+            },
+            "properties": {
+                "state": "Andhra Pradesh",
+                "district": "Prakasam",
+                "confirmed": 24
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [17.6868159, 83.2184815]
+            },
+            "properties": {
+                "state": "Andhra Pradesh",
+                "district": "Visakhapatnam",
+                "confirmed": 20
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [17.32125, 82.0407137]
+            },
+            "properties": {
+                "state": "Andhra Pradesh",
+                "district": "East Godavari",
+                "confirmed": 11
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16.6099914, 80.7214417]
+            },
+            "properties": {
+                "state": "Andhra Pradesh",
+                "district": "Krishna",
+                "confirmed": 29
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.217176, 79.1003289]
+            },
+            "properties": {
+                "state": "Andhra Pradesh",
+                "district": "Chittoor",
+                "confirmed": 17
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16.3066525, 80.4365402]
+            },
+            "properties": {
+                "state": "Andhra Pradesh",
+                "district": "Guntur",
+                "confirmed": 33
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.8281257, 78.0372792]
+            },
+            "properties": {
+                "state": "Andhra Pradesh",
+                "district": "Kurnool",
+                "confirmed": 74
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.6818877, 77.6005911]
+            },
+            "properties": {
+                "state": "Andhra Pradesh",
+                "district": "Anantapur",
+                "confirmed": 6
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16.9174181, 81.3399414]
+            },
+            "properties": {
+                "state": "Andhra Pradesh",
+                "district": "West Godavari",
+                "confirmed": 21
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.4651817, 78.8269995]
+            },
+            "properties": {
+                "state": "Andhra Pradesh",
+                "district": "Y.S.R.",
+                "confirmed": 27
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.3164945, 78.03219179999999]
+            },
+            "properties": {
+                "state": "Uttarakhand",
+                "district": "Dehradun",
+                "confirmed": 14
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.8687682, 78.8382644]
+            },
+            "properties": {
+                "state": "Uttarakhand",
+                "district": "Pauri Garhwal",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.9609653, 79.5153773]
+            },
+            "properties": {
+                "state": "Uttarakhand",
+                "district": "Udham Singh Nagar",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.3919202, 79.4542033]
+            },
+            "properties": {
+                "state": "Uttarakhand",
+                "district": "Nainital",
+                "confirmed": 6
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.9456906, 78.16424780000001]
+            },
+            "properties": {
+                "state": "Uttarakhand",
+                "district": "Haridwar",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [29.5892407, 79.646666]
+            },
+            "properties": {
+                "state": "Uttarakhand",
+                "district": "Almora",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.066753, 79.01929969999999]
+            },
+            "properties": {
+                "state": "Uttarakhand",
+                "district": "Unknown",
+                "confirmed": 4
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.1862584, 85.62227419999999]
+            },
+            "properties": {
+                "state": "Odisha",
+                "district": "Khordha",
+                "confirmed": 34
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.0573616, 86.4962996]
+            },
+            "properties": {
+                "state": "Odisha",
+                "district": "Bhadrak",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.462521, 85.8829895]
+            },
+            "properties": {
+                "state": "Odisha",
+                "district": "Cuttack",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.8134554, 85.8312359]
+            },
+            "properties": {
+                "state": "Odisha",
+                "district": "Puri",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.8341019, 86.3326058]
+            },
+            "properties": {
+                "state": "Odisha",
+                "district": "Jajapur",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.9137363, 83.1649001]
+            },
+            "properties": {
+                "state": "Odisha",
+                "district": "Kalahandi",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.4969108, 86.4288534]
+            },
+            "properties": {
+                "state": "Odisha",
+                "district": "Kendrapara",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.7002703, 75.5424843]
+            },
+            "properties": {
+                "state": "Puducherry",
+                "district": "Mahe",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.9415915, 79.8083133]
+            },
+            "properties": {
+                "state": "Puducherry",
+                "district": "Puducherry",
+                "confirmed": 4
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.572646, 88.36389500000001]
+            },
+            "properties": {
+                "state": "West Bengal",
+                "district": "Kolkata",
+                "confirmed": 11
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.6168099, 88.402895]
+            },
+            "properties": {
+                "state": "West Bengal",
+                "district": "North 24 Parganas",
+                "confirmed": 4
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.4709656, 88.55653099999999]
+            },
+            "properties": {
+                "state": "West Bengal",
+                "district": "Nadia",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.9372879, 87.77633329999999]
+            },
+            "properties": {
+                "state": "West Bengal",
+                "district": "Medinipur East",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.0593562, 88.46945350000001]
+            },
+            "properties": {
+                "state": "West Bengal",
+                "district": "Kalimpong",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.9011588, 88.3898552]
+            },
+            "properties": {
+                "state": "West Bengal",
+                "district": "Hooghly",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.5957689, 88.26363940000002]
+            },
+            "properties": {
+                "state": "West Bengal",
+                "district": "Howrah",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.1352378, 88.4016041]
+            },
+            "properties": {
+                "state": "West Bengal",
+                "district": "South 24 Parganas",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.6233506, 88.5164125]
+            },
+            "properties": {
+                "state": "West Bengal",
+                "district": "Unknown",
+                "confirmed": 64
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [30.7333148, 76.7794179]
+            },
+            "properties": {
+                "state": "Chandigarh",
+                "district": "Chandigarh",
+                "confirmed": 18
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.2513844, 81.62964130000002]
+            },
+            "properties": {
+                "state": "Chhattisgarh",
+                "district": "Raipur",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.0972123, 81.03375009999999]
+            },
+            "properties": {
+                "state": "Chhattisgarh",
+                "district": "Rajnandgaon",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.0796545, 82.1409152]
+            },
+            "properties": {
+                "state": "Chhattisgarh",
+                "district": "Bilaspur",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.1904494, 81.2849169]
+            },
+            "properties": {
+                "state": "Chhattisgarh",
+                "district": "Durg",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.3594501, 82.75005949999999]
+            },
+            "properties": {
+                "state": "Chhattisgarh",
+                "district": "Korba",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.3038945, 70.80215989999999]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Rajkot",
+                "confirmed": 10
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.1702401, 72.83106070000001]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Surat",
+                "confirmed": 19
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.022505, 72.5713621]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Ahmadabad",
+                "confirmed": 77
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.3071588, 73.1812187]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Vadodara",
+                "confirmed": 12
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.2156354, 72.63694149999999]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Gandhinagar",
+                "confirmed": 13
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.7337326, 69.8597406]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Kachchh",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.5879607, 72.36932519999999]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Mahesana",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.7644725, 72.15193040000001]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Bhavnagar",
+                "confirmed": 14
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.6416979, 69.62930589999999]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Porbandar",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.0119385, 70.7168469]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Gir Somnath",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.8011177, 73.55941279999999]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Panch Mahals",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.8500156, 72.1210274]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Patan",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.3084941, 74.0119993]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Chota Udaipur",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.4707019, 70.05773]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Jamnagar",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.8251874, 70.84908089999999]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Morbi",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.5645175, 72.928871]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Anand",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.8476704, 72.99329689999999]
+            },
+            "properties": {
+                "state": "Gujarat",
+                "district": "Sabar Kantha",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [32.0998031, 76.2691006]
+            },
+            "properties": {
+                "state": "Himachal Pradesh",
+                "district": "Kangra",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [31.4684649, 76.2708152]
+            },
+            "properties": {
+                "state": "Himachal Pradesh",
+                "district": "Una",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [31.1033096, 77.118044]
+            },
+            "properties": {
+                "state": "Himachal Pradesh",
+                "district": "Unknown",
+                "confirmed": 12
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.181467, 79.9864071]
+            },
+            "properties": {
+                "state": "Madhya Pradesh",
+                "district": "Jabalpur",
+                "confirmed": 8
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.2599333, 77.412615]
+            },
+            "properties": {
+                "state": "Madhya Pradesh",
+                "district": "Bhopal",
+                "confirmed": 73
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.7195687, 75.8577258]
+            },
+            "properties": {
+                "state": "Madhya Pradesh",
+                "district": "Indore",
+                "confirmed": 151
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.1764665, 75.7885163]
+            },
+            "properties": {
+                "state": "Madhya Pradesh",
+                "district": "Ujjain",
+                "confirmed": 8
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.2182871, 78.18283079999999]
+            },
+            "properties": {
+                "state": "Madhya Pradesh",
+                "district": "Gwalior",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.4320478, 77.66438149999999]
+            },
+            "properties": {
+                "state": "Madhya Pradesh",
+                "district": "Shivpuri",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.057437, 78.9381729]
+            },
+            "properties": {
+                "state": "Madhya Pradesh",
+                "district": "Chhindwara",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.4947172, 77.9940222]
+            },
+            "properties": {
+                "state": "Madhya Pradesh",
+                "district": "Morena",
+                "confirmed": 12
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.8335244, 75.61498929999999]
+            },
+            "properties": {
+                "state": "Madhya Pradesh",
+                "district": "Khargone",
+                "confirmed": 4
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.0363157, 74.903339]
+            },
+            "properties": {
+                "state": "Madhya Pradesh",
+                "district": "Barwani",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [21.9011601, 77.8960201]
+            },
+            "properties": {
+                "state": "Madhya Pradesh",
+                "district": "Betul",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.5235719, 77.81397179999999]
+            },
+            "properties": {
+                "state": "Madhya Pradesh",
+                "district": "Vidisha",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [22.9734229, 78.6568942]
+            },
+            "properties": {
+                "state": "Madhya Pradesh",
+                "district": "Unknown",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.3707993, 86.47339029999999]
+            },
+            "properties": {
+                "state": "Bihar",
+                "district": "Munger",
+                "confirmed": 7
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.5940947, 85.1375645]
+            },
+            "properties": {
+                "state": "Bihar",
+                "district": "Patna",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.2243204, 84.3599953]
+            },
+            "properties": {
+                "state": "Bihar",
+                "district": "Siwan",
+                "confirmed": 6
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.1240603, 85.45947489999999]
+            },
+            "properties": {
+                "state": "Bihar",
+                "district": "Nalanda",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.1571454, 86.0951592]
+            },
+            "properties": {
+                "state": "Bihar",
+                "district": "Lakhisarai",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.4831584, 84.43655]
+            },
+            "properties": {
+                "state": "Bihar",
+                "district": "Gopalganj",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [24.7913957, 85.0002336]
+            },
+            "properties": {
+                "state": "Bihar",
+                "district": "Gaya",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.4181638, 86.1271542]
+            },
+            "properties": {
+                "state": "Bihar",
+                "district": "Begusarai",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.8559698, 84.8567932]
+            },
+            "properties": {
+                "state": "Bihar",
+                "district": "Saran",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.242453, 86.9842256]
+            },
+            "properties": {
+                "state": "Bihar",
+                "district": "Bhagalpur",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [24.7827837, 93.88589549999999]
+            },
+            "properties": {
+                "state": "Manipur",
+                "district": "Imphal West",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [24.6637173, 93.90626879999999]
+            },
+            "properties": {
+                "state": "Manipur",
+                "district": "Unknown",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.7307175, 92.71731059999999]
+            },
+            "properties": {
+                "state": "Mizoram",
+                "district": "Aizawl",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.5163112, 73.98300290000002]
+            },
+            "properties": {
+                "state": "Goa",
+                "district": "North Goa",
+                "confirmed": 4
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.0941858, 74.20916509999999]
+            },
+            "properties": {
+                "state": "Goa",
+                "district": "Unknown",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.8311681, 92.6586401]
+            },
+            "properties": {
+                "state": "Andaman and Nicobar Islands",
+                "district": "South Andaman",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.6518832, 92.8976254]
+            },
+            "properties": {
+                "state": "Andaman and Nicobar Islands",
+                "district": "North and Middle Andaman",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.5059682, 92.70146489999999]
+            },
+            "properties": {
+                "state": "Andaman and Nicobar Islands",
+                "district": "Unknown",
+                "confirmed": 4
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.3440997, 85.309562]
+            },
+            "properties": {
+                "state": "Jharkhand",
+                "district": "Ranchi",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.9924669, 85.3636758]
+            },
+            "properties": {
+                "state": "Jharkhand",
+                "district": "Hazaribagh",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.6692956, 86.15111200000001]
+            },
+            "properties": {
+                "state": "Jharkhand",
+                "district": "Bokaro",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [24.7821253, 92.8577105]
+            },
+            "properties": {
+                "state": "Assam",
+                "district": "Cachar",
+                "confirmed": 2
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.0794316, 91.63721500000001]
+            },
+            "properties": {
+                "state": "Assam",
+                "district": "Kamrup Metropolitan",
+                "confirmed": 5
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.7509207, 94.2036696]
+            },
+            "properties": {
+                "state": "Assam",
+                "district": "Jorhat",
+                "confirmed": 8
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.1641342, 90.62515409999999]
+            },
+            "properties": {
+                "state": "Assam",
+                "district": "Goalpara",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.4446185, 91.4410527]
+            },
+            "properties": {
+                "state": "Assam",
+                "district": "Nalbari",
+                "confirmed": 3
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [25.5354761, 89.8622017]
+            },
+            "properties": {
+                "state": "Assam",
+                "district": "South Salmara Mancachar",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.3160819, 91.5983959]
+            },
+            "properties": {
+                "state": "Assam",
+                "district": "Kamrup",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.2528853, 92.33695499999999]
+            },
+            "properties": {
+                "state": "Assam",
+                "district": "Morigaon",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.5238515, 93.96233699999999]
+            },
+            "properties": {
+                "state": "Assam",
+                "district": "Golaghat",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.2063587, 94.15137639999999]
+            },
+            "properties": {
+                "state": "Assam",
+                "district": "Lakhimpur",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [26.0206982, 89.9743463]
+            },
+            "properties": {
+                "state": "Assam",
+                "district": "Dhubri",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [27.9039651, 96.17391160000001]
+            },
+            "properties": {
+                "state": "Arunachal Pradesh",
+                "district": "Lohit",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [20.3228778, 72.96672540000002]
+            },
+            "properties": {
+                "state": "Dadra and Nagar Haveli",
+                "district": "Unknown",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [23.5166711, 91.63721500000001]
+            },
+            "properties": {
+                "state": "Tripura",
+                "district": "Gomati",
+                "confirmed": 1
+            }
+        }, {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [36.3114126, -95.61362369999999]
+            },
+            "properties": {
+                "state": "Unknown",
+                "district": "Unknown",
+                "confirmed": 183
+            }
+        }]
 }
