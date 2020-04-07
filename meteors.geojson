@@ -1,146 +1,190 @@
 {
   "type": "FeatureCollection",
-   "features": [{
+     "features": [{
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [17.385044, 78.486671]
+                    "coordinates": [22.3038945, 70.80215989999999]
                 },
                 "properties": {
-                    "state": "Telangana",
-                    "district": "Hyderabad",
-                    "confirmed": 87
+                    "state": "Gujarat",
+                    "district": "Rajkot",
+                    "confirmed": 10
                 }
             }, {
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [18.4385553, 79.1288412]
+                    "coordinates": [21.1702401, 72.83106070000001]
                 },
                 "properties": {
-                    "state": "Telangana",
-                    "district": "Karimnagar",
-                    "confirmed": 3
+                    "state": "Gujarat",
+                    "district": "Surat",
+                    "confirmed": 19
                 }
             }, {
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [17.5481226, 80.6157362]
+                    "coordinates": [23.022505, 72.5713621]
                 },
                 "properties": {
-                    "state": "Telangana",
-                    "district": "Bhadradri Kothagudem",
-                    "confirmed": 3
+                    "state": "Gujarat",
+                    "district": "Ahmadabad",
+                    "confirmed": 77
                 }
             }, {
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [17.3891379, 77.8367282]
+                    "coordinates": [22.3071588, 73.1812187]
                 },
                 "properties": {
-                    "state": "Telangana",
-                    "district": "Ranga Reddy",
-                    "confirmed": 3
+                    "state": "Gujarat",
+                    "district": "Vadodara",
+                    "confirmed": 12
                 }
             }, {
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [17.4139017, 78.5855965]
+                    "coordinates": [23.2156354, 72.63694149999999]
                 },
                 "properties": {
-                    "state": "Telangana",
-                    "district": "Medchal Malkajgiri",
-                    "confirmed": 1
+                    "state": "Gujarat",
+                    "district": "Gandhinagar",
+                    "confirmed": 13
                 }
             }, {
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [18.1124372, 79.01929969999999]
+                    "coordinates": [23.7337326, 69.8597406]
                 },
                 "properties": {
-                    "state": "Telangana",
-                    "district": "Unknown",
-                    "confirmed": 258
-                }
-            }, {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [17.9744395, 79.9192702]
-                },
-                "properties": {
-                    "state": "Telangana",
-                    "district": "Warangal Urban",
+                    "state": "Gujarat",
+                    "district": "Kachchh",
                     "confirmed": 2
                 }
             }, {
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [17.3364555, 77.9048268]
+                    "coordinates": [23.5879607, 72.36932519999999]
                 },
                 "properties": {
-                    "state": "Telangana",
-                    "district": "Vikarabad",
+                    "state": "Gujarat",
+                    "district": "Mahesana",
                     "confirmed": 2
                 }
             }, {
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [19.6640624, 78.5320107]
+                    "coordinates": [21.7644725, 72.15193040000001]
                 },
                 "properties": {
-                    "state": "Telangana",
-                    "district": "Adilabad",
+                    "state": "Gujarat",
+                    "district": "Bhavnagar",
+                    "confirmed": 14
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [21.6416979, 69.62930589999999]
+                },
+                "properties": {
+                    "state": "Gujarat",
+                    "district": "Porbandar",
+                    "confirmed": 3
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [21.0119385, 70.7168469]
+                },
+                "properties": {
+                    "state": "Gujarat",
+                    "district": "Gir Somnath",
+                    "confirmed": 2
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [22.8011177, 73.55941279999999]
+                },
+                "properties": {
+                    "state": "Gujarat",
+                    "district": "Panch Mahals",
                     "confirmed": 1
                 }
             }, {
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [19.0964117, 78.342975]
+                    "coordinates": [23.8500156, 72.1210274]
                 },
                 "properties": {
-                    "state": "Telangana",
-                    "district": "Nirmal",
+                    "state": "Gujarat",
+                    "district": "Patan",
+                    "confirmed": 5
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [22.3084941, 74.0119993]
+                },
+                "properties": {
+                    "state": "Gujarat",
+                    "district": "Chota Udaipur",
                     "confirmed": 1
                 }
             }, {
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [18.6725047, 78.09408669999999]
+                    "coordinates": [22.4707019, 70.05773]
                 },
                 "properties": {
-                    "state": "Telangana",
-                    "district": "Nizamabad",
+                    "state": "Gujarat",
+                    "district": "Jamnagar",
                     "confirmed": 1
                 }
             }, {
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [18.6151461, 79.3826826]
+                    "coordinates": [22.8251874, 70.84908089999999]
                 },
                 "properties": {
-                    "state": "Telangana",
-                    "district": "Peddapalli",
+                    "state": "Gujarat",
+                    "district": "Morbi",
                     "confirmed": 1
                 }
             }, {
                 "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [17.6140077, 78.08156269999999]
+                    "coordinates": [22.5645175, 72.928871]
                 },
                 "properties": {
-                    "state": "Telangana",
-                    "district": "Sangareddy",
+                    "state": "Gujarat",
+                    "district": "Anand",
+                    "confirmed": 1
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [23.8476704, 72.99329689999999]
+                },
+                "properties": {
+                    "state": "Gujarat",
+                    "district": "Sabar Kantha",
                     "confirmed": 1
                 }
             }]
