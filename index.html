@@ -29,15 +29,15 @@
     var map = new mapboxgl.Map({
       container: 'map',
       style: 'mapbox://styles/mapbox/dark-v9',
-      center: [68.730469, -27.371767],
-      zoom: 1
+      center: [78.9629, 20.5937],
+      zoom: 4
     });
 
     map.on('load', function() {
 
    map.addSource('meteors', {
      type: 'geojson',
-     data: './meteors.geojson'
+     data: './covid19india.geojson'
    });
    map.addLayer({
   id: 'meteor-heat',
@@ -47,7 +47,7 @@
   paint: {
     // increase weight as diameter breast height increases
     'heatmap-weight': {
-      property: 'mass',
+      property: 'confirmed',
       type: 'exponential',
       stops: [
         [1, 0],
@@ -99,9 +99,9 @@
   source: 'meteors',
   minzoom: 7,
   paint: {
-    // increase the radius of the circle as the zoom level and mass value increases
+    // increase the radius of the circle as the zoom level and confirmed value increases
     'circle-radius': {
-      property: 'mass',
+      property: 'confirmed',
       type: 'exponential',
       stops: [
         [{ zoom: 15, value: 1 }, 5],
@@ -111,7 +111,7 @@
       ]
     },
     'circle-color': {
-      property: 'mass',
+      property: 'confirmed',
       type: 'exponential',
       stops: [
         [0, 'rgba(236,222,239,0)'],
@@ -139,9 +139,9 @@
 new mapboxgl.Popup()
  .setLngLat(e.features[0].geometry.coordinates)
  .setHTML(
-        '<b>Name: </b>' + e.features[0].properties.name +
-        '<br><b>Mass: </b> ' + e.features[0].properties.mass +
-        '<br><b>Year: </b>' + e.features[0].properties.year)
+        '<b>state: </b>' + e.features[0].properties.state +
+        '<br><b>confirmed: </b> ' + e.features[0].properties.confirmed +
+        '<br><b>district: </b>' + e.features[0].properties.district)
  .addTo(map);
 });
 
