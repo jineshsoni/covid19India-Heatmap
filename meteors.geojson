@@ -1,44 +1,147 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102,
-          0.5
-        ]
-      },
-      "properties": {
-        "prop0": "value0"
-      }
-    },
-      {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103,
-          0.6
-        ]
-      },
-      "properties": {
-        "prop0": "value0"
-      }
-    },
-      {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          104,
-          0.7
-        ]
-      },
-      "properties": {
-        "prop0": "value0"
-      }
-    }
-  ]
+   "features": [{
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [17.385044, 78.486671]
+                },
+                "properties": {
+                    "state": "Telangana",
+                    "district": "Hyderabad",
+                    "confirmed": 87
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [18.4385553, 79.1288412]
+                },
+                "properties": {
+                    "state": "Telangana",
+                    "district": "Karimnagar",
+                    "confirmed": 3
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [17.5481226, 80.6157362]
+                },
+                "properties": {
+                    "state": "Telangana",
+                    "district": "Bhadradri Kothagudem",
+                    "confirmed": 3
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [17.3891379, 77.8367282]
+                },
+                "properties": {
+                    "state": "Telangana",
+                    "district": "Ranga Reddy",
+                    "confirmed": 3
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [17.4139017, 78.5855965]
+                },
+                "properties": {
+                    "state": "Telangana",
+                    "district": "Medchal Malkajgiri",
+                    "confirmed": 1
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [18.1124372, 79.01929969999999]
+                },
+                "properties": {
+                    "state": "Telangana",
+                    "district": "Unknown",
+                    "confirmed": 258
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [17.9744395, 79.9192702]
+                },
+                "properties": {
+                    "state": "Telangana",
+                    "district": "Warangal Urban",
+                    "confirmed": 2
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [17.3364555, 77.9048268]
+                },
+                "properties": {
+                    "state": "Telangana",
+                    "district": "Vikarabad",
+                    "confirmed": 2
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [19.6640624, 78.5320107]
+                },
+                "properties": {
+                    "state": "Telangana",
+                    "district": "Adilabad",
+                    "confirmed": 1
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [19.0964117, 78.342975]
+                },
+                "properties": {
+                    "state": "Telangana",
+                    "district": "Nirmal",
+                    "confirmed": 1
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [18.6725047, 78.09408669999999]
+                },
+                "properties": {
+                    "state": "Telangana",
+                    "district": "Nizamabad",
+                    "confirmed": 1
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [18.6151461, 79.3826826]
+                },
+                "properties": {
+                    "state": "Telangana",
+                    "district": "Peddapalli",
+                    "confirmed": 1
+                }
+            }, {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [17.6140077, 78.08156269999999]
+                },
+                "properties": {
+                    "state": "Telangana",
+                    "district": "Sangareddy",
+                    "confirmed": 1
+                }
+            }]
 }
